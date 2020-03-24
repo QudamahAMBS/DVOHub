@@ -4,7 +4,7 @@
             "content": "Supermaket",
             "value": "Supermaket",
             "margin": "32,427,0,0",
-			      "settings": "Normal",
+			      "settings": "Tracked",
 			      "width": 600,
 			      "height": 120,
 			      "fontsize": 40
@@ -14,7 +14,7 @@
             "content": "Manchester Air Pollution",
             "value": "ManchesterAirPollution",
             "margin": "32,299,0,0",
-			      "settings": "Normal",
+			      "settings": "Tracked",
 			      "width": 600,
 			      "height": 120,
 			      "fontsize": 40
@@ -24,7 +24,7 @@
             "content": "Flexible Manufacturing \r\n             System",
             "value": "FlexibleManufacturingSystem",
             "margin": "32,555,0,0",
-			      "settings": "Normal",
+			      "settings": "Tracked",
 			      "width": 600,
 			      "height": 120,
 			      "fontsize": 40
@@ -34,7 +34,7 @@
             "content": "International Space \r\n            Station",
             "value": "ISS Multiview",
             "margin": "1301,356,0,0",
-			      "settings": "Normal",
+			      "settings": "Tracked",
 			      "width": 600,
 			      "height": 120,
 			      "fontsize": 40
@@ -44,7 +44,7 @@
             "content": "Room of Shadows",
             "value": "Room_of_Shadows_x64",
             "margin": "1301,513,0,0",
-			      "settings": "Normal",
+			      "settings": "Tracked",
 			      "width": 600,
 			      "height": 120,
 			      "fontsize": 40
@@ -54,7 +54,7 @@
             "content": "Viking Village",
             "value": "Viking Village",
             "margin": "1301,675,0,0",
-			      "settings": "Normal",
+			      "settings": "Tracked",
 			      "width": 600,
 			      "height": 120,
 			      "fontsize": 40
@@ -64,7 +64,7 @@
             "content": "Manchester in 1889",
             "value": "Manchester1889",
             "margin": "655,441,0,0",
-			      "settings": "Customised",
+			      "settings": "Static",
 			      "width": 600,
 			      "height": 120,
 			      "fontsize": 40
@@ -74,7 +74,7 @@
             "content": "Goat Peak Landscape",
             "value": "GoatPeakLandscape",
             "margin": "655,584,0,0",
-			      "settings": "Customised",
+			      "settings": "Static",
 			      "width": 600,
 			      "height": 120,
 			      "fontsize": 40
@@ -84,7 +84,7 @@
             "content": "Network Graph 1",
             "value": "NodeGraph_ActiveXML",
             "margin": "32,686,0,0",
-			      "settings": "Normal",
+			      "settings": "Tracked",
 			      "width": 600,
 			      "height": 120,
 			      "fontsize": 40
@@ -94,7 +94,7 @@
             "content": "Network Graph 2",
             "value": "NodeGraph_ActiveCSV",
             "margin": "32,815,0,0",
-			      "settings": "Normal",
+			      "settings": "Tracked",
 			      "width": 600,
 			      "height": 120,
 			      "fontsize": 40
@@ -104,7 +104,7 @@
             "content": "Data Analytics",
             "value": "IVRTK_Demo",
             "margin": "32,944,0,0",
-			      "settings": "Normal",
+			      "settings": "Tracked",
 			      "width": 600,
 			      "height": 120,
 			      "fontsize": 40
