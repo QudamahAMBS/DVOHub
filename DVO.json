@@ -105,15 +105,31 @@
             "value": "IVRTK_Demo",
             "margin": "32,944,0,0",
 			      "settings": "HTrack",
-			      "width": 600,
+			      "width": 300,
 			      "height": 60,
-			      "fontsize": 40
+			      "fontsize": 20
 			      },
-
-                  {
+  {
             "name": "btn12",
+            "content": "DxR Analytics",
+
+            "value": "DxRAnalyticsVisualisation",
+
+            "margin": "336,944,0,0",
+
+                              "settings": "HTrack",
+
+                              "width": 300,
+
+                              "height": 60,
+
+                              "fontsize": 20
+
+                              },
+                  {
+            "name": "btn13",
             "content": "QR Workflow Analytics",
-            "value": "WorkflowDataAnalyticsVisualisation",
+            "value": "QRAnalytics",
             "margin": "32,1000,0,0",
                               "settings": "HTrack",
                               "width": 600,
